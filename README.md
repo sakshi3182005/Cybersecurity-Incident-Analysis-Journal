@@ -53,7 +53,7 @@ Cybersecurity-Incident-Analysis-Journal/
 
 | # | Incident | Category | Status |
 |---|----------|----------|--------|
-| 001 | Windmill - CVE-2026-29059 | Path Traversal | ✅ Completed |
+| 001 | Windmill - CVE-2026-29059 | Path Traversal | Completed |
 
 ---
 
