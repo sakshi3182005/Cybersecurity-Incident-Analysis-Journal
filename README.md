@@ -67,8 +67,8 @@ Cybersecurity-Incident-Analysis-Journal/
 
 | # | Incident | Category | Status |
 |---|----------|----------|--------|
-| 001 | Windmill – CVE-2026-29059 | Path Traversal | Completed |
-| 002 | Check Point – CVE-2026-16232 | Authentication Bypass | In Progress |
+| 001 | [Windmill - CVE-2026-29059](Incident-Analysis/Incident-001-Windmill-Path-Traversal/) | Path Traversal | Completed |
+| 002 | [Check Point - CVE-2026-16232](Incident-Analysis/Incident-002-Check-Point-Authentication-Bypass/) | Authentication Bypass | In Progress |
 
 ---
 
