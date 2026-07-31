@@ -44,7 +44,7 @@ Cybersecurity-Incident-Analysis-Journal/
 ├── README.md
 │
 ├── incidents/
-│   ├── 001-CVE-2026-29059-Windmill-Path-Traversal/
+│   ├── Incident-001-Windmill-Path-Traversal/
 │   │   ├── README.md
 │   │   └── images/
 │   │       ├── path-traversal-parameter.jpg
@@ -52,7 +52,7 @@ Cybersecurity-Incident-Analysis-Journal/
 │   │       ├── lab-solved.jpg
 │   │       └── completed-labs.jpg
 │   │
-│   ├── 002-CVE-2026-16232-Check-Point-Authentication-Bypass/
+│   ├── Incident-002-Check-Point-Authentication-Bypass/
 │   │   └── README.md
 │   │
 │   └── ...
